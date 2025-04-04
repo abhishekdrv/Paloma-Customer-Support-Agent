@@ -20,5 +20,5 @@ Paloma AI Chatbot is an **AI-powered multilingual chatbot** developed for *Palom
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/paloma-ai-chatbot.git
-cd paloma-ai-chatbot
+git clone https://github.com/abhishekdrv/Paloma-Customer-Support-Agent.git
+cd Paloma-Customer-Support-Agent
