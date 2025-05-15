@@ -14,7 +14,7 @@ Paloma AI Chatbot is an **AI-powered multilingual chatbot** developed for *Palom
 - **Frontend & Backend:** MERN Stack (MongoDB, Express.js, React.js, Node.js)  
 - **APIs Used:**  
   - [OpenAI API](https://openai.com/) – For intelligent, context-based responses  
-  - [VAPI AI](https://vapi.ai/) – For real-time AI voice-based conversations  
+  - [OpenAI Realtime API](https://platform.openai.com/docs/guides/realtime) – For real-time AI voice-based conversations  
 
 ## 🏗 Setup & Installation  
 
