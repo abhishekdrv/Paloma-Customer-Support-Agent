@@ -38,6 +38,12 @@ cd frontend
 npm install
 ```
 
+⚙️ Set up environment variables
+
+```bash
+OPENAI_API_KEY=your_openai_api_key_here
+```
+
 🏃‍♂️ Start the development server
 
 ```bash
