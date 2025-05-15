@@ -1,7 +1,7 @@
 venv
 __pycache__
 .env
-
+.qodo
 
 # Ignore all .zip files
 *.zip
