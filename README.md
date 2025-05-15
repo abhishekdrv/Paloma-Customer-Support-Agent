@@ -1,7 +1,7 @@
 # Paloma AI Chatbot  
 
 ## 📌 Project Overview  
-Paloma AI Chatbot ([Chatbot Link](https://openai.com/))is an **AI-powered multilingual chatbot** developed for *Paloma The Grandeur*, a luxurious residential project by **Paloma Realty LLP**. The chatbot supports **text-based and AI voice-based** interactions, helping users inquire about apartments, amenities, and other project details in multiple languages.  
+Paloma AI Chatbot ([Chatbot Link](ask.palomarealty.in))is an **AI-powered multilingual chatbot** developed for *Paloma The Grandeur*, a luxurious residential project by **Paloma Realty LLP**. The chatbot supports **text-based and AI voice-based** interactions, helping users inquire about apartments, amenities, and other project details in multiple languages.  
 
 ## 🚀 Features  
 - **Multilingual Support:** Interact in multiple languages for a seamless user experience.  
